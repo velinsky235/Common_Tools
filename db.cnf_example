@@ -1,0 +1,12 @@
+[some_server]
+user=your_username
+password=your_password
+host=prod-profiles-cluser.cluster-cs8m4jwa628a.us-east-1.rds.amazonaws.com
+collation=utf8mb4_general_ci
+
+
+[another_server]
+user=your_username
+password=your_password
+host=prod-profiles-cluser.cluster-cs8m4jwa628a.us-east-1.rds.amazonaws.com
+collation=utf8mb4_general_ci
